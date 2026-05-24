@@ -97,7 +97,7 @@ p {
 }
 
 /* スマートフォン対応 */
-@media (max-height: 600px) {
+@media (max-height: 550px) {
   .credits {
     animation: scrollCredits 20s linear forwards;
   }
