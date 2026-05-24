@@ -92,7 +92,7 @@ p {
   }
 
   to {
-    top: calc(-500% + 100vh);
+    top: calc(-450% + 100vh);
   }
 }
 
