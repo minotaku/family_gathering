@@ -48,7 +48,7 @@ body {
   padding: 0 20px;
 
   /* アニメーション */
-  animation: scrollCredits 20s linear forwards;
+  animation: scrollCredits 25s linear forwards;
 }
 
 .image-box {
@@ -88,7 +88,7 @@ p {
 /* 最後で停止 */
 @keyframes scrollCredits {
   from {
-    top: 100vh;
+    top: 200vh;
   }
 
   to {
